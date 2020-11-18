@@ -1,2 +1,3 @@
 # react-page-transition-advanced-demo
-Created with CodeSandbox
+
+An example React application that demonstrates how to use  my react-page-transitions package. 
